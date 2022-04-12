@@ -1,6 +1,6 @@
 # V(ersioned) (P)ython
 
-This lightweight utility for versioning Python captures the contents of any file after you run it. To use:
+This lightweight utility for versioning Python captures the contents of any file after you run it. It works with args. To use:
 
 1. Clone this repo
 2. Run `pip install .` in the root directory of the repo
