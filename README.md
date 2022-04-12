@@ -20,7 +20,8 @@ Versions are saved as json files such as:
     "timestamp": "2022-04-12 16:13:34.875372", 
     "filename": "/Users/shreyashankar/Documents/projects/vpython/helloworld.py", 
     "command": "/Users/shreyashankar/miniforge3/envs/hawk/bin/python3.9 helloworld.py", 
-    "contents": "print(\"hello world\")\n"}
+    "contents": "print(\"hello world\")\n"
+}
 ```
 
 The default save directory is `Path.home()/.vython`. To override it, set the `VYTHON_SAVE_DIR` environment variable.
